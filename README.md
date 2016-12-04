@@ -7,7 +7,8 @@ You can find those here: [Quantum-Installer](https://github.com/uclatommy/Quantu
 
     git clone https://github.com/uclatommy/Quantum-Installer.git
     ./dev-install.sh
-    ./create-osx-bundle.sh master
+    ./create-osx-bundle.sh
+    ./install-kivy-framework.sh master
     ./setup-quantum.sh
 
 Now you can build Quantum-SymCell:
